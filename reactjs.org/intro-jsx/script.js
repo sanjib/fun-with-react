@@ -1,7 +1,7 @@
 var user = {
     firstName: "Sanjib",
     lastName: "Ahmad",
-    avatarUrl: "./images/sanjib-self-portrait.jpg"
+    avatarUrl: "../assets/images/sanjib-self-portrait.jpg"
 };
 
 function formatName(user) {
