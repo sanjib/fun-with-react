@@ -1,0 +1,7 @@
+body {
+  margin: 2em;
+}
+
+.btn-primary.disabled, .btn-primary:disabled {
+  color: #64b3ff;
+}
